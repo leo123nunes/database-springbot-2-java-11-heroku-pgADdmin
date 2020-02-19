@@ -14,4 +14,4 @@ Java SE versão 11 e Maven Dependencies.
 Postman e pgAdmin 4.
 
 # Tempo total do projeto
-14 dias programando cerca de 2 horas por dia.
+14 dias.
