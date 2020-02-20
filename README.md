@@ -6,7 +6,7 @@ pedidos e departamentos de produtos de uma empresa. O projeto possui uma pasta c
 Java e MySQL.
 
 # IDE
-Spring Tool Suite 4. Version: 4.5.1.RELEASE. Build Id: 202001211336.
+Spring Tool Suite 4. Version: 4.5.1.RELEASE.
 
 # Bibliotecas
 Java SE versão 11 e Maven Dependencies.
