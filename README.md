@@ -1,6 +1,6 @@
 # Java-SpringBoot_MySQL_DatabaseWebService
 Banco de dados MySQL utilizando Spring Boot em Java com o pgAdmin e Postman, para registrar clientes, 
-pedidos e departamentos de produtos de uma empresa. O projeto possui uma pasta com as imagens do banco de dados finalizado em execução.
+pedidos e departamentos de produtos de uma empresa.
 
 # Linguagem de programação e banco de dados
 Java e MySQL.
